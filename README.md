@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suscord, A Middle School Student
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Game Development(Especially Minecraft)
 - 🌱 I’m currently learning Minecraft Development(Modding, Modeling etc)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
