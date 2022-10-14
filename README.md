@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suscord ; also known as Acord, A Middle School Student
+- 👋 Hi, I’m @Suscord ; also known as Kang, A Middle School Student
 - 👀 I’m interested in Game Development(Especially Minecraft)
 - 🌱 I’m currently learning Minecraft Development(Modding, Modeling etc)
 //- 💞️ I’m looking to collaborate on ...
