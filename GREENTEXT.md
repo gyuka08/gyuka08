@@ -18,7 +18,7 @@
 >
 >goes to high school with game dev department because i wanna be a gamedev
 >
->everything we learn is planning coding art and i suck at all of these 3
+>everything we learn is game planning and coding and i suck at all of these 2
 >
 >even i bought expensive laptop JUST for it
 >
@@ -28,4 +28,4 @@
 >
 >current status
 >
->awating epic fail on godot and c++
+>awating epic fail on godot
