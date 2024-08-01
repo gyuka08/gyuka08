@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="121" src="Profile.png"  alt="My Github Profile Picture"/>
+  <img width="169" src="assets/userProfile.png"  alt="My Github Profile Picture"/>
   <h2 align="center">squareVanilla</h2>
   <p align="center">☠️Student / ☕️Junior Java Learner / ⚙️Godot Enjoyer </p>
 </div>
