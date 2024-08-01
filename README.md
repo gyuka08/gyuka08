@@ -28,3 +28,14 @@ I currently have no SNS Account. Since I'm not an Extrucive human. I'm allergic 
 | Godot | VSCode | IntelliJ |
 |-------|--------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot"  alt="Godot" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="55" height="55"/> |
+
+### OS
+(Really)
+| Windows |
+|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows"  alt="Windows" width="55" height="55"/> |
+
+### Other Tools
+| Blender | GIMP | Inkscape |
+|---------|------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="GIMP"  alt="GIMP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape"  alt="Inkscape" width="55" height="55"/> |
