@@ -19,16 +19,23 @@ I currently have no SNS Account. Since I'm not an Extrucive human. I'm allergic 
 
 ### Languages
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" height="36"> <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-plain.svg" height="36">
+| Java | GDScript |
+|------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java"  alt="Java" width="64" height="64"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-plain.svg" title="GDScript"  alt="GDScript" width="64" height="64"/> |
 
 ### Development Tools
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" height="36"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg" height="36"> <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" height="36">
+| Godot | VSCode | IntelliJ |
+|-------|--------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot"  alt="Godot" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="64" height="64"/> |
 
 ### OS
-
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg" height="36"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg" height="36"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" height="36">
+(Really)
+| Windows | macOS |
+|---------|-------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows"  alt="Windows" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="macOS"  alt="macOS" width="64" height="64"/> |
 
 ### Other Tools
-
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity2.svg" height="36"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg" height="36"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello2.svg" height="36"> <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" height="36"> <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" height="36">
+| Blender | GIMP | Inkscape |
+|---------|------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="GIMP"  alt="GIMP" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape"  alt="Inkscape" width="64" height="64"/> |
