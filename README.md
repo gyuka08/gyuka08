@@ -13,7 +13,7 @@ I'm a *Lazy* Student(Which my GitHub Stats describe) who is Learning C++ in Scho
 I also have a Strong Passion for the World of Minecraft Modding. so as long as My Laziness doesn't Overwrite My Passion, I'll Always do My Best for My Dreams.
 
 ### Social Media?
-I currently have no SNS Account. Since I'm not an Extrucive human. I'm allergic to Instagram...
+I currently have no SNS Account. Since I'm not an Extrucive human, and My personal information is as precious as I am. also I'm allergic to People...
 
 ## Things I Use
 
