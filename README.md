@@ -8,12 +8,18 @@
 
 ##
 
-### 🪞 About Me
+### About Me
 I'm a *Lazy* Student(Which my GitHub Stats describe) who is Learning C++ in School, and self-teaching Godot and Java. I have a Dream of Making a Game with My skills. and I'm Currently Studying for It.
 I also have a Strong Passion for the World of Minecraft Modding. so as long as My Laziness doesn't Overwrite My Passion, I'll Always do My Best for My Dreams.
 
-### Social Media?
-I currently have no SNS Account. Since I'm not an Extrucive human, and My personal information is as precious as I am. also I'm allergic to People...
+### My Current Goals
+|❎| Make 2D Game engine with Java |
+| - | - |
+|❎| Make an honorable Minecraft MOD |
+|❎| be able to Animate in Blender |
+|❎| Make a 3D Godot Mega Man like Game |
+|❎| be able to Compose in Garageband |
+
 
 ## Things I Use
 
