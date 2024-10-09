@@ -13,14 +13,13 @@ I'm a *Lazy* Student(Which my GitHub Stats describe) who is Learning C++ in Scho
 I also have a Strong Passion for the World of Minecraft Modding. so as long as My Laziness doesn't Overwrite My Passion, I'll Always do My Best for My Dreams.
 
 ### My Current Goals
-|❎| Make 2D Game engine with Java |
-| - | - |
 |❎| Make an honorable Minecraft MOD |
-|❎| be able to Animate in Blender |
-|❎| Make a 3D Godot Mega Man like Game |
+| - | - |
+|❎| Get an Animatable Model in Blender |
 |❎| be able to Compose in Garageband |
 
-
+<div align="center">
+  
 ## Things I Use
 
 ### Languages
@@ -31,17 +30,21 @@ I also have a Strong Passion for the World of Minecraft Modding. so as long as M
 
 ### Development Tools
 
-| Godot | VSCode | IntelliJ |
-|-------|--------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot"  alt="Godot" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="64" height="64"/> |
+| Godot | VSCode | Visual Studio | IntelliJ |
+|-------|--------|---------------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot"  alt="Godot" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/Visual%20Studio/Visual%20Studio%202022.png" title="Visual Studio"  alt="Visual Studio" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="64" height="64"/> |
 
 ### OS
-(Really)
-| Windows | macOS |
-|---------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows"  alt="Windows" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="macOS"  alt="macOS" width="64" height="64"/> |
+| Windows | macOS | Android |
+|---------|-------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows"  alt="Windows" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/macOS/Sequoia.png" title="macOS"  alt="macOS" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/Android/Android%2013.png" title="Android"  alt="Android" width="64" height="64"/> |
 
-### Other Tools
-| Blender | GIMP | Inkscape |
-|---------|------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="GIMP"  alt="GIMP" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape"  alt="Inkscape" width="64" height="64"/> |
+### Graphics Tools
+| Blender | Blockbench | GIMP | Inkscape | Krita |
+|---------|------------|------|----------|-------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/Blockbench/Blockbench.png" title="Blockbench"  alt="Blockbench" width="64" height="64"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="GIMP"  alt="GIMP" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape"  alt="Inkscape" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/Krita/Krita.png" title="Krita"  alt="Krita" width="64" height="64"/> |
+
+### Audio Tools
+| Audacity | Garageband |
+|----------|------------|
+| <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/Audacity/Audacity.png" title="Audacity"  alt="Audacity" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/Garageband/Garageband%2010.4.png" title="Garageband"  alt="Garageband" width="64" height="64"/> | 
