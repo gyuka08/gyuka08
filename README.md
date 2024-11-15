@@ -30,9 +30,9 @@ I have a Strong Passion Minecraft Modding. so as long as My Laziness doesn't Ove
 
 ### Languages
 
-| Java | C++ | GDScript |
-|:----:|:---:|:--------:|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java"  alt="Java" width="64" height="64"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cplusplus"  alt="Cplusplus" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-plain.svg" title="GDScript"  alt="GDScript" width="64" height="64"/> | 
+| Java | GDScript |
+|:----:|:--------:|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java"  alt="Java" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-plain.svg" title="GDScript"  alt="GDScript" width="64" height="64"/> | 
 
 ### Development Tools
 
