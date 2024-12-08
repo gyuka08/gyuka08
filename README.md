@@ -48,7 +48,7 @@ I have a Strong Passion Minecraft Modding. so as long as My Laziness doesn't Ove
 ### Frameworks
 | Minecraft Forge | libGDX |
 |:---------------:|:------:|
-| <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/Minecraft Forge/Forge.jpg" title="Minecraft Forge"  alt="Minecraft Forge" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/libGDX/libGDX.jpg" title="libGDX"  alt="libGDX" width="64" height="64"/> |
+| <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/Minecraft Forge/Forge.jpg" title="Minecraft Forge"  alt="Minecraft Forge" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/libGDX/libGDX.png" title="libGDX"  alt="libGDX" width="64" height="64"/> |
 
 ### Graphics Tools
 | Blender | Blockbench | GIMP | Inkscape | Krita |
