@@ -36,9 +36,9 @@ I have a Strong Passion Minecraft Modding. so as long as My Laziness doesn't Ove
 
 ### Development Tools
 
-| Godot | VSCode | Visual Studio | IntelliJ |
+| Godot | VSCode | Code::Blocks | IntelliJ |
 |:-----:|:------:|:-------------:|:--------:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot"  alt="Godot" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/Visual%20Studio/Visual%20Studio%202022.png" title="Visual Studio"  alt="Visual Studio" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="64" height="64"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot"  alt="Godot" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/CodeBlocks/CodeBlocks.png" title="Code::Blocks"  alt="CodeBlocks" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ"  alt="IntelliJ" width="64" height="64"/> |
 
 ### OS
 | Windows | macOS | Android |
@@ -46,9 +46,9 @@ I have a Strong Passion Minecraft Modding. so as long as My Laziness doesn't Ove
 | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows"  alt="Windows" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/macOS/Sequoia.png" title="macOS"  alt="macOS" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/Android/Android%2013.png" title="Android"  alt="Android" width="64" height="64"/> |
 
 ### Frameworks
-| Minecraft Forge |
-|:---------------:|
-| <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/Minecraft Forge/Forge.jpg" title="Minecraft Forge"  alt="Minecraft Forge" width="64" height="64"/> |
+| Minecraft Forge | libGDX |
+|:---------------:|:------:|
+| <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/Minecraft Forge/Forge.jpg" title="Minecraft Forge"  alt="Minecraft Forge" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/libGDX/libGDX.jpg" title="libGDX"  alt="libGDX" width="64" height="64"/> |
 
 ### Graphics Tools
 | Blender | Blockbench | GIMP | Inkscape | Krita |
