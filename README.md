@@ -13,9 +13,12 @@
 ##
 
 ### About Me
-forced to Unity
-reject the Society
-embrace Minecraft
+
+> forced to Unity
+>
+> reject the Society
+>
+> embrace Minecraft
 
 ### My Current Goals
 Survive
