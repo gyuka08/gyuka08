@@ -1,7 +1,7 @@
 <div align="center">
   <img width="121" src="assets/userProfile.png"  alt="Qualified Profile Picture"/>
   <h2 align="center">squareVanilla</h2>
-  <p align="center">☠️Student / 🛠️Minecraft Mod Tryer / ⚙️Godot Enjoyer </p>
+  <p align="center">☠️Student / 🛠️Minecraft Modder / ⚙️Godot Enjoyer </p>
 </div>
 
 <div align="center">
@@ -14,15 +14,14 @@
 
 ### About Me
 
-> forced to Unity
->
-> reject the Society
->
-> embrace Minecraft
+> student
+
+> modding minecraft
+
+> it uses java
 
 ### My Current Goals
-Survive
-
+actually doing productive things instead of fw my ADHD
 
 ## Things I Use
 
