@@ -14,7 +14,7 @@
 
 ### About Me
 
-(check this out)[GREENTEXT.md]
+[check this out](GREENTEXT.md)
 
 ### My Current Goals
 actually doing productive things instead of fw my ADHD
