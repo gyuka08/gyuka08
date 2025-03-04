@@ -1,7 +1,7 @@
 <div align="center">
-  <img width="121" src="assets/userProfile.png"  alt="Qualified Profile Picture"/>
-  <h2 align="center">squareVanilla</h2>
-  <p align="center">☠️Student / 🛠️Minecraft Modder / ⚙️Godot Enjoyer </p>
+  <img width="121" src="assets/userProfile2.png"  alt="Qualified Profile Picture"/>
+  <h2 align="center">the space snowman</h2>
+  <p align="center">Professional Shitposter</p>
 </div>
 
 <div align="center">
@@ -14,11 +14,7 @@
 
 ### About Me
 
-> student
-
-> modding minecraft
-
-> it uses java
+(check this out)[GREENTEXT.md]
 
 ### My Current Goals
 actually doing productive things instead of fw my ADHD
@@ -35,14 +31,14 @@ actually doing productive things instead of fw my ADHD
 
 ### Development Tools
 
-| Godot | VSCode | Code::Blocks |
-|:-----:|:------:|:-------------:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot"  alt="Godot" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/CodeBlocks/CodeBlocks.png" title="Code::Blocks"  alt="CodeBlocks" width="64" height="64"/> |
+| Godot | VSCode |
+|:-----:|:------:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot"  alt="Godot" width="64" height="64"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="64" height="64"/> 
 
 ### OS
 | Windows | macOS | Android |
 |:-------:|:-----:|:-------:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows"  alt="Windows" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/macOS/Sequoia.png" title="macOS"  alt="macOS" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/Android/Android%2013.png" title="Android"  alt="Android" width="64" height="64"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows"  alt="Windows" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/macOS/Sequoia.png" title="macOS"  alt="macOS" width="64" height="64"/> | <img src="https://github.com/gyuka08/gyuka08/blob/main/assets/icons/Android/Android%2014.png" title="Android"  alt="Android" width="64" height="64"/> |
 
 ### Frameworks
 | Minecraft Forge |
