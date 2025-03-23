@@ -1,7 +1,7 @@
 <div align="center">
   <img width="121" src="assets/userProfile2.png"  alt="Qualified Profile Picture"/>
   <h2 align="center">the space snowman</h2>
-  <p align="center">Le modder de Minecraft</p>
+  <p align="center"> Le Minecraft modder </p>
 </div>
 
 <div align="center">
