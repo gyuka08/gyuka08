@@ -13,8 +13,8 @@
 ##
 
 ### About Me
-
-[check this out](GREENTEXT.md)
+hello
+i use minecraft forge to mod minecraft
 
 ### My Current Goals
 actually doing productive things instead of fw my ADHD
